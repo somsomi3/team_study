@@ -1,11 +1,9 @@
 # team_study
 team_study
 
-# computer_study
-computer_study
+:algorithm_study!
 
-# algorithm_study
-algorithm_study!/ cs추가예정
++cs추가예정
 
 ## 깃허브 환경설정
 
